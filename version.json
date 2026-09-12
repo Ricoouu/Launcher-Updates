@@ -1,6 +1,6 @@
 {
-  "version": "2.6",
+  "version": "2.7",
   "downloadUrl": "https://github.com/Ricoouu/Launcher-Updates/releases/latest/download/KoGv2.Launcher.exe",
-  "sha256": "2e4b33cfd5e9c900e42deb26600782e7c55662ef071de0723aed79f32215d6a4",
-  "notes": "KoGv2 Launcher v2.6: Online-News und automatisches Update-System."
+  "sha256": "f26a3fbf8eaa1e7c0f93234ea24e30de621d3fb04d1e6c4cc1e4a9ff851f5efb",
+  "notes": "KoGv2 Launcher v2.7: Auto-Update Test."
 }
